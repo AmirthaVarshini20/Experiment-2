@@ -12,11 +12,11 @@ Write a python program for matrix multiplication and inspect for failures.
 6. Stop the program. 
 
 ## Program
-```
+
 Name: AMIRTHA VARSHINI V
 
 Register number:212224040021
-
+```
 import numpy as np
 
 r1 = int(input("Enter number of rows for Matrix A: "))
