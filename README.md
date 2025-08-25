@@ -12,6 +12,7 @@ Write a python program for matrix multiplication and inspect for failures.
 6. Stop the program. 
 
 ## Program
+```
 Name: AMIRTHA VARSHINI V
 
 Register number:212224040021
@@ -37,7 +38,7 @@ else:
     result = np.matmul(A, B)
     print("\nResultant Matrix:")
     print(result)
-
+```
 
 
 ## Output
